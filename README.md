@@ -100,3 +100,16 @@ Pratap College, Amalner
 ---
 
 ⭐ If you find this project interesting, consider giving this repository a star!
+## 📸 Application Screenshots
+
+### 1. Home Page
+![Home](screenshots/home.png)
+
+### 2. Text Detection
+![Text Detection](screenshots/text-detection.png)
+
+### 3. Image Detection
+![Image Detection](screenshots/image-detection.png)
+
+### 4. Scan History
+![Scan History](screenshots/scan-history.png)
